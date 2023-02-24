@@ -1,5 +1,5 @@
 'use strict';
 
 window.addEventListener('DOMContentLoaded', () => {
-    console.log('test');
+    console.log('Hello');
 });
