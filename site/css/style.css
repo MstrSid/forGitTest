@@ -1,3 +1,7 @@
-.h1 {
+.header__main {
     color: red;
+}
+
+.header__sub {
+    color: blue;
 }
